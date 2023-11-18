@@ -24,3 +24,13 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+
+## Originality
+This is an original work by our team. We build on top the following tooling.
+
+# Bonus
+
+Demo: https://web3votingapp.vercel.app
+Video: https://loom.com
+Tweet: https://x.com/ezekiel_ax
+
