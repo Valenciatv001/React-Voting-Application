@@ -31,6 +31,7 @@ This is an original work by our team. We build on top the following tooling.
 # Bonus
 
 Demo: https://web3votingapp.vercel.app
+<br/>
 Video: https://loom.com
 Tweet: https://x.com/ezekiel_ax
 
