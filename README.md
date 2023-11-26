@@ -34,5 +34,5 @@ Demo: https://react-voting-application.vercel.app
 <br/>
 Video: https://loom.com
 <br/>
-Tweet: https://x.com/ezekiel_ax
+Tweet: https://x.com/Ezekiel_AX/status/1728782060393791964?s=20
 
