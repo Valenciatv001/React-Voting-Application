@@ -32,7 +32,7 @@ This is an original work by our team. We build on top the following tooling.
 
 Demo: https://react-voting-application.vercel.app
 <br/>
-Video: https://loom.com
+Video: https://www.loom.com/share/3a4354396bd24301b69d4f2ca3a7ef5b
 <br/>
 Tweet: https://x.com/Ezekiel_AX/status/1728782060393791964?s=20
 
